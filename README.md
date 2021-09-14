@@ -1,2 +1,2 @@
 # 3DObjectDetection
-Expermients for 3D Object Detection  
+Jupyter Notebooks with experiments on 3D Object Detection  
